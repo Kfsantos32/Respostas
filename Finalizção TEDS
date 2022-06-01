@@ -1,0 +1,14 @@
+Na tabela de produtos precisei fazer as alterações:
+- Coluna produto de DECIMAL(5,2) para DECIMAL(6,2)
+
+
+Na tabela de cliente precisei fazer as alterações:
+- Coluna cliente de VARCHAR(50) para VARCHAR(60)
+
+
+Alguns outros ALTER TABLE foram feitos durantes as aulas como estudo
+de alteração das tabelas .
+
+
+Adicionados INSERTS da tabela cliente_pet
+
